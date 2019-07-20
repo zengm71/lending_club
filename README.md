@@ -1,2 +1,2 @@
-# credit_card_fraud
-https://www.kaggle.com/mlg-ulb/creditcardfraud
+# Lending Club Data: Classifying Defaults
+https://www.kaggle.com/wendykan/lending-club-loan-data
